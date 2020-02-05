@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@color/mapbox_blue"
+    android:padding="20dp"
+    >
+
+    <ImageView
+        android:id="@+id/nav_user_photo"
+        android:background="@color/white"
+        android:layout_width="75dp"
+        android:layout_height="75dp"/>
+
+    <TextView
+        android:id="@+id/nav_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Sharan"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="5dp"
+        tools:ignore="InvalidId" />
+
+    <TextView
+        android:id="@+id/nav_user_mailid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mailid"
+        android:textColor="@color/white"
+
+        />
+
+</LinearLayout>

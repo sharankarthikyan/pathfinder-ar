@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "93882039336",
+    "firebase_url": "https://pathfinderar-6be33.firebaseio.com",
+    "project_id": "pathfinderar-6be33",
+    "storage_bucket": "pathfinderar-6be33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93882039336:android:7b24bea4a3550fe281c91d",
+        "android_client_info": {
+          "package_name": "com.example.pathfinderar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93882039336-oull0gg1e09nnuh7cvrn56d7d04gqkvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKsoMHKaISs5d0I5ZpA4ME1Xx4MZj_VU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93882039336-oull0gg1e09nnuh7cvrn56d7d04gqkvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

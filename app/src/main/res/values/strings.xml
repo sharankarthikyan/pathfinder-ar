@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PathFinderAR</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="password">Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="mapbox_navigation">MapBox Navigation</string>
+    <string name="access_token" translatable="false">pk.eyJ1Ijoic2hhcmFuayIsImEiOiJjazQzbGNuamEwOTg5M2xxeXBsYjAwN2tsIn0.BURxOfImpqcy4-8Kptj4xQ</string>
+    <string name="user_location_permission_explanation">This app needs location permissions to show its functionality.</string>
+    <string name="user_location_permission_not_granted">You didn\'t grant location permissions.</string>
+    <string name="search_button">Search Button</string>
+    <string name="navigation">Navigation</string>
+    <string name="navigation_bar">navigation_bar</string>
+    <string name="navigationbar">navigation bar</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+</resources>
+
