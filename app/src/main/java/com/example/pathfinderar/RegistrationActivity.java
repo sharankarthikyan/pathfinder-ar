@@ -59,9 +59,6 @@ public class RegistrationActivity extends AppCompatActivity {
             }
         });
 
-
-        updateUI();
-
         userLogin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -80,10 +77,6 @@ public class RegistrationActivity extends AppCompatActivity {
 
     }
 
-    private void updateUI(){
-        Intent homeActivity= new Intent(getApplicationContext(), Home.class);
-        startActivity(homeActivity);
-    }
 
     private boolean validate()
     {

@@ -30,7 +30,6 @@ public class MainActivity extends AppCompatActivity {
     private FirebaseAuth firebaseAuth;
 
 
-    private Intent HomeActivity;
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
@@ -50,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(MainActivity.this, MapBoxActivity.class));
         }
 
-        HomeActivity = new Intent(this,Home.class);
+
 
         Login.setOnClickListener(new View.OnClickListener() {
             @Override
